@@ -1,0 +1,5 @@
+,SMILES
+0,CCCCCCCCCCCCCCCCCCCCCCCCCCc1cc(N2C(=O)CC(Sc3nc(C)cc(C)n3)C2=O)ccc1OCC
+1,CCOC(=O)/C=C/[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@@H](CC(=O)[C@@H](NC(=O)c1cc(C)on1)C(C)C)Cc1ccccc1C
+2,CCCCCCCCCCCCCc1cc(C(C)=O)ccc1NC(=O)C(CC)Sc1nc(O)c(C#N)c(-c2cccc(OC)c2)n1
+3,CCCCCCCCCCCCCCc1cc(C(F)(F)F)ccc1NC(=O)CSc1nccc(-c2cc(-c3ccc(Cl)cc3Cl)no2)n1
